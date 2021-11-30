@@ -1,0 +1,20 @@
+[
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fenomena.oxibank.debug",
+    "sha256_cert_fingerprints":
+    ["6C:B3:3D:12:38:A6:2A:32:6B:34:22:25:A1:56:24:6D:6C:E9:10:8D:27:D2:82:B9:63:82:E5:31:62:76:3E:AA"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fenomena.oxibank",
+    "sha256_cert_fingerprints":
+    ["00:0F:6C:25:CF:1F:CF:BD:AC:E0:9C:B2:3D:AD:26:31:17:7A:8B:9B:AB:12:2B:E4:10:10:7C:47:97:02:96:AF"]
+  }
+}
+]
