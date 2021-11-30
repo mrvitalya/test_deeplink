@@ -1,10 +1,17 @@
 {
-    "applinks": {
-        "details": [
-            {
-                "appIDs": ["SG9P26DV2T.com.fenomena.oxibank.develop"],
-                "components": [{ "/": "deeplink/*" }]
-            }
-        ]
-    }
+   "applinks":{
+      "details":[
+         {
+            "appIDs":[
+               "SG9P26DV2T.com.fenomena.oxibank.develop"
+            ],
+            "components":[
+               {
+                  "/":"/deeplink/*",
+                  "comment":"Matches any URL whose path starts with /buy/"
+               }
+            ]
+         }
+      ]
+   }
 }
