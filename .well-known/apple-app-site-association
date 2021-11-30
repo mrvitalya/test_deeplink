@@ -1,15 +1,13 @@
 {
-   "applinks":{
-      "apps":[
-         
-      ],
-      "details":[
-         {
-            "appID":"SG9P26DV2T.com.fenomena.oxibank.develop",
-            "paths":[
-               "/deeplink/*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+            "appID": "SG9P26DV2T.com.fenomena.oxibank.develop",
+            "paths": [
+                "/deeplink/*"
             ]
-         }
-      ]
-   }
+            }
+        ]
+    }
 }
