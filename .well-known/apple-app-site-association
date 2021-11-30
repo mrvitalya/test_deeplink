@@ -1,10 +1,9 @@
 {
     "applinks": {
-	"apps": [],
         "details": [
             {
-                "appID": "SG9P26DV2T.com.fenomena.oxibank.develop",
-                "paths": ["/deeplink/*"]
+                "appIDs": ["SG9P26DV2T.com.fenomena.oxibank.develop"],
+                "components": [{ "/": "deeplink/*" }]
             }
         ]
     }
