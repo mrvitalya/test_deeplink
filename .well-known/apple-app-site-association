@@ -5,12 +5,12 @@
             {
             "appID": "SG9P26DV2T.com.fenomena.oxibank.develop",
             "paths": [
-                "*"
+                ""
             ]
             }, {
 	   "appID": "SG9P26DV2T.com.fenomena.oxibank",
             "paths": [
-                "*"
+                ""
             ]
             }
         ]
