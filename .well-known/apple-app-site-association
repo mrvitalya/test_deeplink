@@ -5,7 +5,12 @@
             {
             "appID": "SG9P26DV2T.com.fenomena.oxibank.develop",
             "paths": [
-                "/deeplink/*"
+                "*"
+            ]
+            }, {
+	   "appID": "SG9P26DV2T.com.fenomena.oxibank",
+            "paths": [
+                "*"
             ]
             }
         ]
